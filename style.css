@@ -8,9 +8,9 @@
 
          h1 {
          	@font-face 
-				font-family: "Sigmar One";
+				font-family: 'Sigmar One', cursive;
 					src: url(http://fonts.googleapis.com/css?family=Sigmar+One);
-					font-weight: 400;
+					font-weight: bold;
              text-align: left;
              font-family: Sigmar One;
              font-size: 37px;
