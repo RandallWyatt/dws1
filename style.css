@@ -1,16 +1,16 @@
 /*CSS STYLE SHEET*/
 
-
+		
        body{background-color:   rgb(249, 216, 0);
        }
 
-		
+		@font-face 
+				font-family: 'SigmarOne';
+					src: url(http://fonts.googleapis.com/css?family=Sigmar+One)
 
          h1 {
-         	@font-face 
-				font-family: 'Sigmar One', cursive;
-					src: url(http://fonts.googleapis.com/css?family=Sigmar+One);
-					font-weight: bold;
+         	 font-family:SigmarOne; 
+			 font-weight: bold;
              text-align: left;
              font-family: Sigmar One;
              font-size: 37px;
