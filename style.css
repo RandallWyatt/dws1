@@ -37,7 +37,7 @@
            font-weight: bolder;
            width: 650px;
            margin-bottom: 20px;
-           margin-left: -50;
+           margin-left: -50px;
        }
       div {
             margin-left: 260px;
@@ -46,6 +46,7 @@
             width: 600px;
             border-radius: 5px;
             background: #ffffff
+            margin-left: 260px;
 
        }
        div{
