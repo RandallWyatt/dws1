@@ -4,24 +4,23 @@
        body{background-color:   rgb(249, 216, 0);
        }
 
-		@font-face 
-				font-family: 'SigmarOne';
-					src: url(http://fonts.googleapis.com/css?family=Sigmar+One)
+		
 
          h1 {
-         	 font-family:SigmarOne; 
+         	 font-family: 'Lobster', cursive; 
 			 font-weight: bold;
              text-align: left;
              font-family: Sigmar One;
-             font-size: 37px;
+             font-size: 40px;
              text-shadow: 4px 4px 4px #aeaeae;
              width: 850px;
-             margin-left: -110px;
+             margin-left: -120px;
          }
 
 
 
-        h2{font-family: Arial, veranda, serif;
+        h2{
+        	font-family: Arial, veranda, serif;
             font-size: 22px;
             font-weight: bolder;
         }
