@@ -10,11 +10,11 @@
          	@font-face 
 				font-family: "Sigmar One";
 					src: url(http://fonts.googleapis.com/css?family=Sigmar+One);
+					font-weight: 400;
              text-align: left;
              font-family: Sigmar One;
              font-size: 37px;
              text-shadow: 4px 4px 4px #aeaeae;
-             font-weight: bold;
              width: 850px;
              margin-left: -110px;
          }
