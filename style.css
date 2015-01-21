@@ -4,11 +4,12 @@
        body{background-color:   rgb(249, 216, 0);
        }
 
-		@font-face {
-		font-family: "Sigmar One";
-		src: url(http://fonts.googleapis.com/css?family=Sigmar+One);
+		
 
          h1 {
+         	@font-face 
+				font-family: "Sigmar One";
+					src: url(http://fonts.googleapis.com/css?family=Sigmar+One);
              text-align: left;
              font-family: Sigmar One;
              font-size: 37px;
@@ -34,17 +35,17 @@
            text-align: left;
            font-family: Roboto, sans-serif;
            font-weight: bolder;
-           width: 700px;
-           margin-bottom: 30px;
-           margin-left: auto;
+           width: 650px;
+           margin-bottom: 20px;
+           margin-left: -50;
        }
-       div {
-           margin-left: 300px;
-           border: 2px solid #000000;
-           padding: 10px 150px;
-           width: 600px;
-           border-radius: 5px;
-           background: #ffffff
+      div {
+            margin-left: 260px;
+            border: 2px solid #000000;
+            padding: 10px 150px;
+            width: 600px;
+            border-radius: 5px;
+            background: #ffffff
 
        }
        div{
