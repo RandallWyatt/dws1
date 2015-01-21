@@ -4,8 +4,8 @@
        body{background-color:   rgb(249, 216, 0);
        }
 
+		/* Page title */
 		
-
          h1 {
          	 font-family: 'Lobster', cursive; 
 			 font-weight: bold;
@@ -16,8 +16,7 @@
              margin-left: -120px;
          }
 
-
-
+/* */
         h2{
         	font-family: Arial, veranda, serif;
             font-size: 22px;
@@ -28,6 +27,7 @@
                      font-weight: bold;
                      margin-bottom: 5px;
                      text-decoration: underline;
+                     text-align: center;
         }
        p { 
            text-align: left;
@@ -51,9 +51,8 @@
            box-shadow: 10px 10px 5px #bababa;
        }
 
-       h2,h3,h4,h5{
-           text-align:center;
-       }
+       
+      
        ol {text-align: left;
            width: 600px;
            margin-left: 25px;
