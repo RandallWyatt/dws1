@@ -1,7 +1,7 @@
 /*CSS STYLE SHEET*/
 
 
-       body{background-color:   rgb(255, 255, 0);
+       body{background-color:   rgb(249, 216, 0);
        }
 
 		@font-face {
@@ -9,9 +9,9 @@
 		src: url(http://fonts.googleapis.com/css?family=Sigmar+One);
 
          h1 {
-             text-align: center;
+             text-align: left;
              font-family: Sigmar One;
-             font-size: 48px;
+             font-size: 37px;
              text-shadow: 4px 4px 4px #aeaeae;
              font-weight: bold;
              width: 850px;
