@@ -5,6 +5,7 @@
        			background-color:   rgb(249, 216, 0);
        			background-image: url("images/AllBlacks.gif");
     			background-repeat: repeat-y;
+    			
        }
 
 		/* Page title */
@@ -45,15 +46,15 @@
         
        p { 
             background-image: url("./images/rugby_ball.gif");
-    background-repeat: no-repeat;
-text-align: justify;
-text-indent: 2.188em;
-font-family: Roboto, sans-serif;
-font-weight: bolder;
-width: 43.750em;
-margin-bottom: 2.8%;
-margin-left: -8%;
-    padding-bottom: 1.688em;
+    		background-repeat: no-repeat;
+			text-align: justify;
+			text-indent: 2.188em;
+			font-family: Roboto, sans-serif;
+			font-weight: bolder;
+			width: 43.750em;
+			margin-bottom: 2.8%;
+			margin-left: -8%;
+    		padding-bottom: 1.688em;
             
        }
        
@@ -68,7 +69,7 @@ margin-left: -8%;
 			width: 37.500em;
 			border-radius: 0.313em;
 			background:#fff;
-			box-shadow: 10px 10px 5px #bababa;
+			box-shadow: 0.625em 0.625em 0.313em #bababa;
 			
        }
        
