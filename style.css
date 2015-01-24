@@ -44,7 +44,7 @@
         /*     All information and icons      */
         
        p { 
-            background-image: url("./images/rugby_ball.gif"); border-image-width: 2px;
+            background-image: url("/images/rugby_ball.gif");
     background-repeat: no-repeat;
 text-align: justify;
 text-indent: 2.188em;
