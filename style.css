@@ -8,6 +8,35 @@
     			 background-repeat: repeat-y;
     			
        }
+       #navcontainer ul{
+     padding-left: 0;
+     margin-left: 0;
+     background-color: #ffffff;
+     color: White;
+     float:right;
+     width: 700px;
+     height: 25px;
+     font-family: arial, helvetica, sans-serif;
+ }
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+    padding: 0.2em 1em;
+    background-color: rgba(1, 0, 0, 0);
+    color: #000000;
+    text-decoration: none;
+    float: right;
+    clear: both;
+    border-right: 1px solid #000000;
+}
+
+#navcontainer ul li a:hover
+{
+    background-color: #369;
+    color: #fff;
+}
 
 		/* Page title */
 		
