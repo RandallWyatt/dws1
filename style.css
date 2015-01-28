@@ -2,9 +2,10 @@
 
 		
        body{
-       			background-color:   rgb(249, 216, 0);
-       			background-image: url("images/AllBlacks.gif");
-    			background-repeat: repeat-y;
+       			body {
+   				 background: linear-gradient(#FFE804, #FF3E17);
+   				 background-image: url("images/AllBlacks.gif");
+    			 background-repeat: repeat-y;
     			
        }
 
